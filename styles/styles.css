@@ -1,0 +1,44 @@
+html {
+    background-color: aliceblue;
+    font-family: 'Fira Code', monospace;
+}
+img {
+    width: 600px;;
+}
+h1 {
+    font-family: 'Lacquer', sans-serif;
+    font-size: 60px;
+    margin: 0;
+    color: darkgray;
+    text-shadow: 2px 20px 10px;
+}
+
+
+a{
+    color: #85B3B6;
+    font-family: 'Hanalei', cursive;
+    font-size: 50px;
+    margin: 2px auto;
+}
+body {
+    width: 600px;
+    margin: 20px  auto;
+    padding: 20px 20px 20px 20px;
+    border: 5px solid #CAD2D2;
+    height: auto;
+    text-align: center;
+}
+p {
+    font-size: 30px;
+    margin: 10px;
+    border: 5px solid;
+    color: #85B3B6;
+    text-shadow: 2px 2px 5px;
+    
+}
+ul {
+    font-family: 'Lacquer', sans-serif;
+    font-size: 30px;
+    margin: 5px auto;
+    
+}
